@@ -1,7 +1,12 @@
 *{
     background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 p{
-    background-color: white;
+    background-color: black;
     color: yellow;
+    /* display: flex; */
+    width: 20%;
 }
